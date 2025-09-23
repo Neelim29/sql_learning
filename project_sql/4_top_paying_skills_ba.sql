@@ -1,14 +1,15 @@
 SELECT 
     skills AS skill_name,
-    COUNT(skills_job_dim.job_id) AS demand_count
+    ROUND(AVG(salary_year_avg),2) AS avg_pay_per_skill
 FROM
     job_postings_fact
 INNER JOIN skills_job_dim ON skills_job_dim.job_id = job_postings_fact.job_id
 INNER JOIN skills_dim ON skills_dim.skill_id = skills_job_dim.skill_id
 WHERE 
     job_title_short = 'Business Analyst'
+    AND salary_year_avg IS NOT NULL
 GROUP BY 
     skill_name
 ORDER BY 
-    demand_count DESC
+    avg_pay_per_skill DESC
 LIMIT 10 ;
