@@ -205,7 +205,7 @@ By vizualizing the data , we get
 
 ![Skills in demand for Business Analyst](assets\q3_skills_in_demand_ba.jpg) *Image showcasing the data that includes the top skills that are in most demand for Business Analyst*
 
-Hence from the data , we can clearly observe that the core skills are the same as Data analyst but here it can be observed that excel is on par with sql on this field of line . This can come from the fact that Business Analyst rely heavily on excel and its figures and presentations to convey meassages to CXO's of the company.
+Hence from the data , we can clearly observe that the core skills remain the same as Data analyst but here it can be observed that excel is on par with sql on this field of line . This can come from the fact that Business Analyst rely heavily on excel and its figures and presentations to convey meassages to CXO's of the company.
 
 ### 4. Skills associated with higher salary
  For this , we wrote a query that gave us the skills that have the highest average salaries associated with them.
