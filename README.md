@@ -203,7 +203,7 @@ LIMIT 10 ;
 ```
 By vizualizing the data , we get 
 
-![Skills in demand for Business Analyst](assets\q3_skills_in_demand_ba.png)*Image showcasing the data that includes the top skills that are in most demand for Data Analyst*
+![Skills in demand for Business Analyst](assets\q3_skills_in_demand_ba.png) *Image showcasing the data that includes the top skills that are in most demand for Business Analyst*
 
 Hence from the data , we can clearly observe that the core skills are the same as Data analyst but here it can be observed that excel is on par with sql on this field of line . This can come from the fact that Business Analyst rely heavily on excel and its figures and presentations to convey meassages to CXO's of the company.
 
