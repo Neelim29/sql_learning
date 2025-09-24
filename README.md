@@ -181,7 +181,8 @@ LIMIT 10 ;
 By vizualising the data , we get the graph as follows-
 
 ![Top skills in demand for Data Analyst](assets\q3_skills_in_demand.png)
- Conclusion: We may conclude that sql is the top in-demand skills that is associated to Data Analyst followed by Excel , Python and many more.
+
+Conclusion: We may conclude that sql is the top in-demand skills that is associated to Data Analyst followed by Excel , Python and many more.
 
  b. Buisness Analyst
  ```sql
@@ -452,4 +453,4 @@ Here are some facts/Conclusions that can be drawn from the analysis above
 - According to personal opinions,people may choose to learn skills associated to hugh pay or skills that are most demanded and choose what is optimum for them to learn. If they choose high pay skills like Kafka, Airflow would be ideal for them and if they choose high demand skills like SQL,Python etc would be ideal for them.
 
 # Closing Thoughts
-This project have helped me learn valuable skills such as SQL in a very high and useful manner. This project has also help me get familier with tools like postgres and connect to other people via platforms like Github. With tremendous efforts and lots of hardwork and troubleshooting , I feel that I have finally learned the essence of creating an analysis that can help people choose a better decision in the field of data.
+This project has helped me learn valuable skills such as SQL in a very high and useful manner. This project has also help me get familier with tools like postgres and connect to other people via platforms like Github. With tremendous efforts and lots of hardwork and troubleshooting , I feel that I have finally learned the essence of creating an analysis that can help people choose a better decision in the field of data. 
